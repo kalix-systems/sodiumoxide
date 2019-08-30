@@ -114,6 +114,7 @@ pub mod crypto {
     pub mod box_;
     pub mod generichash;
     pub mod hash;
+    pub mod kdf;
     pub mod kx;
     pub mod onetimeauth;
     pub mod pwhash;
